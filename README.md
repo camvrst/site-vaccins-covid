@@ -1,0 +1,3 @@
+# Covid Killer
+
+NPM INSTALL + NPM START
